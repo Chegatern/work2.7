@@ -1,0 +1,24 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.title-index {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.title {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+hr {
+  border-top: 1px solid rgba(0,0,0, .2);
+}
+
+.contant {
+  display: flex;
+  align-items: center;
+}
